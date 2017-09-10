@@ -1,0 +1,7 @@
+source 'https://rubygems.org' do
+  gem 'json'
+  gem 'httparty'
+  gem 'google-api-client'
+  gem 'braintree', "~> 2.78.0"
+  gem 'pry'
+end
